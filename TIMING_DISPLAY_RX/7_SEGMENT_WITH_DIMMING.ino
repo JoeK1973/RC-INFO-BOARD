@@ -1,13 +1,13 @@
 #include <SPI.h>   // Comes with Arduino IDE
-#include <RF24.h>  // Download and Install (See above)
+#include <RF24.h>  // Download and install the TMRh20 nRF24L01+ library, see documentation
 #include <nRF24L01.h>
 
-RF24 myRadio (9, 10);
+RF24 myRadio (9, 10); // create object for interacting with the nRF24L01+ transceivers
 
-byte addresses[6] = {
+byte addresses[6] = { // give the radio link a unique name to help the devices pick out the right signal
   "1Node"}; 
 
-int i = 1;
+int i = 1; 
 char tx_array[63];
 int lstate;
 int r_int;
