@@ -16,23 +16,23 @@ void setup(){
 
 void loop(){
   time = millis();
-  if ((time - oldtime) <= r_interval)){
+  if ((time - oldtime) <= r_interval){
     lightledone();
   }
-  if ((time - oldtime) > r_interval) AND (time - oldtime) <= h_interval)){
+  if (((time - oldtime) > r_interval) && ((time - oldtime) <= h_interval)){
     lightledtwo();
   }
-  if ((time - oldtime) > h_interval) AND (time - oldtime) <= t_interval)){
+  if (((time - oldtime) > h_interval) && ((time - oldtime) <= t_interval)){
     lightledthree();
   }
-  if ((time - oldtime) > t_interval)){
+  if ((time - oldtime) > t_interval){
     oldtime = time;
   }
 }
 
 void lightledone(){
   digitalWrite(ledPin1, HIGH);
-  digitalWrite(ledPin2, LOW;
+  digitalWrite(ledPin2, LOW);
   digitalWrite(ledPin3, LOW);
 }
 
