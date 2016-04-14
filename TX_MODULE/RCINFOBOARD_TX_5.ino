@@ -36,7 +36,6 @@ SoftwareSerial mySerial(5, 6);
 
 char tx_array[63]; // The array of variables that is transmitted
 
-char *i;
 char *rnum; // round number character 
 char *hnum; // heat number character
 char *mnum; // etc
