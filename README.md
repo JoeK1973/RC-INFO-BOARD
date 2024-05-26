@@ -11,3 +11,6 @@ The project has three main parts:
 
 The blog accompanying this project can be found at 
 > https://rcinfoboard.wordpress.com
+
+And there is also a Facebook group at
+> https://www.facebook.com/groups/836970256449759
