@@ -22,11 +22,11 @@ int timefour;
 int radav = 0;
 
 // TPIC6B595 pin declarations
-////Pin connected to DS of 74HC595
+////Pin connected to SERIN of TPIC6B595
 int dataPin = 2;
-//Pin connected to ST_CP of 74HC595
+//Pin connected to RCK of TPIC6B595
 int latchPin = 3;
-//Pin connected to SH_CP of 74HC595
+//Pin connected to SRCK of TPIC6B595
 int clockPin = 4;
 
 // digit declaration digits 0-9
