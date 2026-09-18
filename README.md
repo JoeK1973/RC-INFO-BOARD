@@ -1,4 +1,7 @@
 # RC-INFO-BOARD
+
+EDIT: Sep 2026 - RCIB-1 is the legacy files. RCIB-2 is the start of a new version of the project. More to come
+
 A wireless race timing display and gantry lights system for RC model car racing.
 
 The project has three main parts:
