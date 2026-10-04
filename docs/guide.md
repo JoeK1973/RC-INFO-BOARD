@@ -19,8 +19,9 @@ This project utilises the ESP32-S3-DevKitC-1-N16R8 throughout - whenever a micro
 To build a transmitter, you will require:
 1. A ESP32-S3-DevKitC-1-N16R8 microcontoller. These are cheap on eBay and Amazon.
 2. A USB-C to USB-A converter to allow you to plug in your existing timing board (if you have one). I would buy one with a fitting to allow you to mount it to an enclosure.
+3. An enclosure to house the ESP32 and USB cable/adapter. I have designed an enclosure which you can 3D print. Link here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk1NTE4NTNdfQ==
+eyJoaXN0b3J5IjpbNDQwMDU1NTY5XX0=
 -->
