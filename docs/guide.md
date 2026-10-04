@@ -26,9 +26,12 @@ To build a transmitter, you will require:
 
 *Software*
 
+You will need to flash the ESP32 with the transmitter code, the latest 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI5OTIyMjldfQ==
+eyJoaXN0b3J5IjpbLTExOTYzODc2OTAsLTE1MTI5OTIyMjldfQ
+==
 -->
