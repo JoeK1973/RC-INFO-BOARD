@@ -28,9 +28,12 @@ To build a transmitter, you will require:
 
 You will need to flash the ESP32 with the transmitter code, the latest version can be found here (link coming soon). This serves as both a pass-through for existing timing boards, as well as parsing the timing information for use in RCIB receiver boards.
 
+The easiest way to flash the ESP32 is to just build the code and flash it. To do this you will need EIM (a tool for ma
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODY2OTkwOCwtMTUxMjk5MjIyOV19
+eyJoaXN0b3J5IjpbLTc0NzYwOTYwOCwxNzU4NjY5OTA4LC0xNT
+EyOTkyMjI5XX0=
 -->
