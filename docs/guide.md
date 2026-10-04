@@ -16,9 +16,11 @@ I'll split the guide into several smaller sections - I may or may not create oth
 
 This project utilises the ESP32-S3-DevKitC-1-N16R8 throughout - whenever a microcontroller is necessary, this will be it. If you are intending on building a system based on RCIB, buy these in bulk as it will be cheaper. How many you need will depend on how many parts you are intending to build. You will need at least 2 - one for the transmitter and one for a receiver/display of some sort. Obviously if you need more displays you will need more microcontrollers.
 
-To build a transmitter
+To build a transmitter, you will require:
+1. A ESP32-S3-DevKitC-1-N16R8 microcontoller. These are cheap on eBay and Amazon.
+2. A USB-C to USB-A converter to allow you to plug in your existing timing board (if you have one). I would buy one with a fitting to allow you to mount it to an enclosure.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQwMDc1NDVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk1NTE4NTNdfQ==
 -->
