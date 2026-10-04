@@ -5,11 +5,7 @@ This is intended to be a straightforward guide to building your own RC timing bo
 
 I'll split the guide into several smaller sections - I may or may not create other pages with illustrated explanations as the need arises.
 
-**
-
 ## Sections
-
-**
 
 1. Building the Transmitter
 2. Building Receiver Type #1 - WS2812 18cm digits
@@ -21,5 +17,5 @@ I'll split the guide into several smaller sections - I may or may not create oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMzU0MDIwXX0=
+eyJoaXN0b3J5IjpbOTQ1MTExMTQwXX0=
 -->
