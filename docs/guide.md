@@ -6,7 +6,10 @@ I'll split the guide into several smaller sections - I may or may not create oth
 
 **Sections**
 
+1. Building the Transmitter
+2. Building Receiver Type #1 - WS2812 18cm digits
+3. Building Receiver 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODI5Mjc5NzZdfQ==
+eyJoaXN0b3J5IjpbMTcxOTIwODM5MV19
 -->
