@@ -28,12 +28,14 @@ To build a transmitter, you will require:
 
 You will need to flash the ESP32 with the transmitter code, the latest version can be found here (link coming soon). This serves as both a pass-through for existing timing boards, as well as parsing the timing information for use in RCIB receiver boards.
 
-The easiest way to flash the ESP32 is to just build the code and flash it. To do this you will need EIM (a tool for managing ESP-IDF installations). The instructions [here](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/windows-setup.html) should help you. Ins
+The easiest way to flash the ESP32 is to just build the code and flash it. To do this you will need EIM (a tool for managing ESP-IDF installations). The instructions [here](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/windows-setup.html) should help you. Instead of choosing Easy Installation, choose Custom and specify the ESP32-S3 when given the choice.
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU0MDc2MDUsMTc1ODY2OTkwOCwtMT
-UxMjk5MjIyOV19
+eyJoaXN0b3J5IjpbNDk4MjA2MTgyLDE3NTg2Njk5MDgsLTE1MT
+I5OTIyMjldfQ==
 -->
