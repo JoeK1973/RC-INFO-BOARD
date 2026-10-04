@@ -8,8 +8,12 @@ I'll split the guide into several smaller sections - I may or may not create oth
 
 1. Building the Transmitter
 2. Building Receiver Type #1 - WS2812 18cm digits
-3. Building Receiver 
+3. Building Receiver Type #2 - 18cm PCB digits
+4. Building Receiver Type #3 - Start Lights
+
+**Section 1- Building the Transmitter**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTIwODM5MV19
+eyJoaXN0b3J5IjpbLTEyOTE1MTMxNDddfQ==
 -->
