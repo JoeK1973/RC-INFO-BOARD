@@ -1,7 +1,7 @@
 
 # RC Information Board (RCIB) Building Guide (started 2026)
 
-This is intended to be a straightforward guide to building your own RC timing board. My own use case is for the board to take in serial data from RC-Timing, pass it straight through unchanged to any existing RC timing boards a club may have (RIDE boards for example in the UK), and then to also use the data to feed timing data to one or more RCIB boards. RCIB is the acronym I give to this project, simply it stands for RC Information Board.
+This is intended to be a straightforward guide to building your own RC timing board. My own use case is for the board to take in serial data from RC-Timing, pass it straight through unchanged to any existing RC timing boards a club may have (RIDE boards for example in the UK), and then to also use the data to feed timing data to one or more RCIB boards. RCIB is the acronym I give to this project, simply it stands for RC Information Board. It is a wireless R
 
 I'll split the guide into several smaller sections - I may or may not create other pages with illustrated explanations as the need arises.
 
@@ -26,12 +26,11 @@ To build a transmitter, you will require:
 
 *Software*
 
-You will need to flash the ESP32 with the transmitter code, the latest 
+You will need to flash the ESP32 with the transmitter code, the latest version can be found here (link coming soon). This serves as both a pass-through for existing timing boards, as well as parsing the timing information for use in RCIB receiver boards.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYzODc2OTAsLTE1MTI5OTIyMjldfQ
-==
+eyJoaXN0b3J5IjpbMzU3MTA4NzEwLC0xNTEyOTkyMjI5XX0=
 -->
