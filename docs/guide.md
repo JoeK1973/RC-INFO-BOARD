@@ -30,12 +30,12 @@ You will need to flash the ESP32 with the transmitter code, the latest version c
 
 The easiest way to flash the ESP32 is to just build the code and flash it. To do this you will need EIM (a tool for managing ESP-IDF installations). The instructions [here](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/windows-setup.html) should help you. Instead of choosing Easy Installation, choose Custom and specify the ESP32-S3 when given the choice.
 
-
+Further guide to Powershell and CLI commands coming soon.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MjA2MTgyLDE3NTg2Njk5MDgsLTE1MT
-I5OTIyMjldfQ==
+eyJoaXN0b3J5IjpbMTAzMTc0ODM2MywxNzU4NjY5OTA4LC0xNT
+EyOTkyMjI5XX0=
 -->
