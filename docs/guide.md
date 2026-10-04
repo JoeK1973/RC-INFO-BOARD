@@ -14,8 +14,9 @@ I'll split the guide into several smaller sections - I may or may not create oth
 
 ## Section 1- Building the Transmitter
 
+This project utilises the ESP32-S3-DevKitC-1-N16R8 th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3NzkwNzU4XX0=
+eyJoaXN0b3J5IjpbMjE0MDYwODUxM119
 -->
