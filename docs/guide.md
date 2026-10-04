@@ -14,9 +14,10 @@ I'll split the guide into several smaller sections - I may or may not create oth
 
 ## Section 1- Building the Transmitter
 
-This project utilises the ESP32-S3-DevKitC-1-N16R8 th
+This project utilises the ESP32-S3-DevKitC-1-N16R8 throughout - whenever a microcontroller is necessary, this will be it. If you are intending on building a system based on RCIB, buy these in bulk as it will be cheaper. How many you need will depend on how many parts you are intending to build.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDYwODUxM119
+eyJoaXN0b3J5IjpbLTQ1MDk4NDcyMF19
 -->
