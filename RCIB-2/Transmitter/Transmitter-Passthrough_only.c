@@ -1,4 +1,6 @@
 /*
+ * This is a pass-through of RC-Timing information from software to ESP32. It does not transmit anything to external ESP32s yet
+ * It also has diagnostic output for prior fault-finding which will be removed in the next version
  * RCIB-TX integrated firmware
  * Target: ESP32-S3, ESP-IDF 6.1
  *
