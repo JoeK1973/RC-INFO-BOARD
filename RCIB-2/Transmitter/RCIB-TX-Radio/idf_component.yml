@@ -1,0 +1,6 @@
+dependencies:
+  ## Required IDF version
+  idf:
+    version: '>=4.1.0'
+  espressif/usb: '*'
+  espressif/usb_host_cdc_acm: ^2.4.1
